@@ -1,0 +1,65 @@
+[33mcommit 19c21aa5bd7bea6c7465222069964a74c5b5fbe6[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m)[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:27:34 2021 +0400
+
+    refactoring: mnemonic characters replaced with UTF-8 characters
+
+[33mcommit e8267471702c1000f43d9726db6c1e34554f2d63[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:22:46 2021 +0400
+
+    fix: add Html5 DOCTYPE tag according to rule 2.2 in html
+
+[33mcommit 4363990abf9dd25cac72987c8b8100f2bf7e89ac[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:21:55 2021 +0400
+
+    refactor: adjust HTML-formatting according to rule 2.1 in html
+
+[33mcommit 3768aca0d9de833c8ed4f833f496a655f8cb69ab[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:16:15 2021 +0400
+
+    refactoring: ordinary quotes are replaced with double quotes according to rule 1.3
+
+[33mcommit 48cc3c2dd5f4b2311aeb924370d016361c9e34e1[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:11:04 2021 +0400
+
+    refactoring: lowercase setting for all tags according to rule 1.2
+
+[33mcommit 5523b02ef6ada59574b14db1d5ee3bfa2950d901[m
+Author: Andrey Chernobrovkin <adam.holo@mail.ru>
+Date:   Fri Apr 2 15:08:52 2021 +0400
+
+    refactoring: setting margins according to rule 1.1 in html-and-css
+
+[33mcommit 2af1cba01dc8c59d156847b3dafdceade802e85a[m[33m ([m[1;31morigin/clean-code-s1e1[m[33m)[m
+Author: Adam0091 <55671230+Adam0091@users.noreply.github.com>
+Date:   Fri Apr 2 14:55:08 2021 +0400
+
+    Update README.md
+
+[33mcommit dee63e7d91c795e7ba0db1ef7142a661ca9885da[m
+Author: Adam0091 <55671230+Adam0091@users.noreply.github.com>
+Date:   Fri Apr 2 14:54:44 2021 +0400
+
+    Delete fake readme.md file
+
+[33mcommit db14ce7c7b5eafe97c31d3c5baf35c2dff7600dd[m
+Author: Adam0091 <55671230+Adam0091@users.noreply.github.com>
+Date:   Fri Apr 2 14:54:01 2021 +0400
+
+    Update README.md
+
+[33mcommit 70229ae3cf441107fb77ba2de8da9e7e2217b30e[m
+Author: Adam0091 <55671230+Adam0091@users.noreply.github.com>
+Date:   Fri Apr 2 14:45:23 2021 +0400
+
+    Add: added files for refactoring
+
+[33mcommit f88ae33523c4ea1228549ebde841bf37c4f99151[m
+Author: Adam0091 <55671230+Adam0091@users.noreply.github.com>
+Date:   Fri Apr 2 14:41:50 2021 +0400
+
+    Initial commit
