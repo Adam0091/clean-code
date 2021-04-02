@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/55671230/113409852-314d7e00-93c3-11eb-914d-ccacc499d6b4.png
+![image](https://user-images.githubusercontent.com/55671230/113409852-314d7e00-93c3-11eb-914d-ccacc499d6b4.png)
 # Функционал приложения :
 
     - Добавление нового элемента в список задач "TODO"
