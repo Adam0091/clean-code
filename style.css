@@ -148,11 +148,11 @@
   display: none;
 }
 
-.list-task .edit-mode .task-input[type=text] {
+.list-task .list-task__item__edit-mode .task-input[type=text] {
   display: inline-block;
   width: 224px;
 }
 
-.list-task .edit-mode .task {
+.list-task .list-task__item__edit-mode .task {
   display: none;
 }
